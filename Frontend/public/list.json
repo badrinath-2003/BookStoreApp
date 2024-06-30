@@ -1,0 +1,98 @@
+[
+    {
+      "id": 1,
+      "name": "Story Book",
+      "title": "A Journey Through Imagination",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1718605737~exp=1718609337~hmac=c365483f1a26d77f2713ecd2ae88a4377a0fc20200af4627f391546026d4db9a&w=740"
+    },
+    {
+      "id": 2,
+      "name": "Art Book",
+      "title": "Creative Expressions",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1718605737~exp=1718609337~hmac=c365483f1a26d77f2713ecd2ae88a4377a0fc20200af4627f391546026d4db9a&w=740"
+    },
+    {
+      "id": 3,
+      "name": "Science & Technology",
+      "title": "The Future of AI",
+      "price": 15,
+      "category": "Technology",
+      "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1718605737~exp=1718609337~hmac=c365483f1a26d77f2713ecd2ae88a4377a0fc20200af4627f391546026d4db9a&w=740"
+    },
+    {
+      "id": 4,
+      "name": "Nature Guide",
+      "title": "Exploring Earth's Beauty",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1718605737~exp=1718609337~hmac=c365483f1a26d77f2713ecd2ae88a4377a0fc20200af4627f391546026d4db9a&w=740"
+    },
+    {
+      "id": 5,
+      "name": "Children's Stories",
+      "title": "Adventures in Neverland",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1718605737~exp=1718609337~hmac=c365483f1a26d77f2713ecd2ae88a4377a0fc20200af4627f391546026d4db9a&w=740"
+    },
+    {
+      "id": 6,
+      "name": "Cooking Guide",
+      "title": "Mastering the Art of French Cooking",
+      "price": 10,
+      "category": "Cooking",
+      "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1718605737~exp=1718609337~hmac=c365483f1a26d77f2713ecd2ae88a4377a0fc20200af4627f391546026d4db9a&w=740"
+    },
+    {
+      "id": 7,
+      "name": "Travel Guide",
+      "title": "Exploring the Wonders of the World",
+      "price": 12,
+      "category": "Travel",
+      "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1718605737~exp=1718609337~hmac=c365483f1a26d77f2713ecd2ae88a4377a0fc20200af4627f391546026d4db9a&w=740"
+    },
+    {
+      "id": 8,
+      "name": "Self-Help",
+      "title": "The Path to Success",
+      "price": 8,
+      "category": "Self-Help",
+      "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1718605737~exp=1718609337~hmac=c365483f1a26d77f2713ecd2ae88a4377a0fc20200af4627f391546026d4db9a&w=740"
+    },
+    {
+      "id": 9,
+      "name": "Poetry Collection",
+      "title": "Whispers of the Soul",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1718605737~exp=1718609337~hmac=c365483f1a26d77f2713ecd2ae88a4377a0fc20200af4627f391546026d4db9a&w=740"
+    },
+    {
+      "id": 10,
+      "name": "Health & Fitness",
+      "title": "Ultimate Guide to Yoga",
+      "price": 9,
+      "category": "Health",
+      "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1718605737~exp=1718609337~hmac=c365483f1a26d77f2713ecd2ae88a4377a0fc20200af4627f391546026d4db9a&w=740"
+    },
+    {
+      "id": 11,
+      "name": "History Book",
+      "title": "Ancient Civilizations",
+      "price": 14,
+      "category": "History",
+      "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1718605737~exp=1718609337~hmac=c365483f1a26d77f2713ecd2ae88a4377a0fc20200af4627f391546026d4db9a&w=740"
+    },
+    {
+      "id": 12,
+      "name": "Fiction Book",
+      "title": "Fantasy Worlds",
+      "price": 11,
+      "category": "Fiction",
+      "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1718605737~exp=1718609337~hmac=c365483f1a26d77f2713ecd2ae88a4377a0fc20200af4627f391546026d4db9a&w=740"
+    }
+  ]
