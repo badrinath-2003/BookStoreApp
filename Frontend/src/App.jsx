@@ -1,12 +1,12 @@
-import React from 'react'
-import Home from './home/Home'
-import { Navigate, Route,Routes } from "react-router-dom"
-import Courses from './courses/Courses'
-import Signup from './components/Signup'
+import React from 'react';
+import Home from './home/Home';
+import { Navigate, Route,Routes } from "react-router-dom";
+import Courses from './courses/Courses.jsx';
+import Signup from './components/Signup';
 import  { Toaster } from 'react-hot-toast';
-import { useAuth } from './context/AuthProvider'
-import AboutPage from './AboutPage/AboutPage'
-import Contacts from './Contacts/Contacts'
+import { useAuth } from './context/AuthProvider';
+import AboutPage from './AboutPage/AboutPage.jsx';
+import Contacts from './Contacts/Contacts.jsx';
 function App() {
   const [authUser, setAuthUser]= useAuth();
   console.log(authUser);
